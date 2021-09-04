@@ -1,0 +1,31 @@
+/* 
+ * Author:  {{NAME}}
+ *          {{EMAIL}}
+ * Task:    "{{FILEE}}"
+ * Created: {{TODAY}}
+ * */
+
+#include <bits/stdc++.h>
+using namespace std;
+typedef int64_t i64;
+typedef long double ld;
+
+#define Random(lf, rt) (lf + rand() % (rt - lf + 1))
+#define Time   cerr << "Time collapse : " << fixed << setprecision(3) << 1.000*clock()/CLOCKS_PER_SEC
+#define pb push_back
+#define all(z) z.begin(), z.end()
+#define rall(z) z.rbegin(), z.rend()
+#define ii pair<int, int>
+#define sz(z) (int) z.size()
+#define f first
+#define s second
+#define EOL '\n'
+#define TASK "TASKNAME"
+
+int main() {
+    /*
+     * My solve is in here
+     */
+
+    return 0;
+}
